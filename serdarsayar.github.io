@@ -1,5 +1,4 @@
 <html>
-<html>
 <head>
     <title> Anasayfa</title>
 </head>
