@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title> Anasayfa</title>
+    <title> Anasayfa </title>
 </head>
 <h1> MERHABA</h1>
 <body>
