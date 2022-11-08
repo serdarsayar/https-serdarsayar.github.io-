@@ -2,7 +2,7 @@
 <head>
    
 </head>
-<h1> İnstagram serdar_syr </h1>
+<h1> SERDAR SAYAR </h1>
 <body>
     
 </body>
